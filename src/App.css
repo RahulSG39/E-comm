@@ -1,3 +1,9 @@
 body {
   padding: 20px 60px;
+  font-family: "Rowdies", cursive;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
